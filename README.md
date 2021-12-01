@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wukong
+- 👋 Hi, I’m @jcuyler21
 - 👀 I’m interested in full stack web development and Python.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on pending.
